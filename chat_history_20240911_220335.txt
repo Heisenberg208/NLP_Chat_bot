@@ -1,0 +1,21 @@
+You: current time
+Bot: Hello! How may I assist you?
+
+You: adam
+Bot: Hello! How can I assist you today?
+
+You: open wikipedia
+Bot: Good morning. I hope you had a good night's sleep. How are you feeling today? 
+
+You: very good
+Bot: Hello! How can I assist you today?
+
+You: search virat kohli
+Bot: I've opened a web search for 'virat kohli'.
+
+You: search what is a python 
+Bot: I've opened a web search for 'what is a python '.
+
+You: search how do i treat injuries
+Bot: I've opened a web search for 'how do i treat injuries'.
+
